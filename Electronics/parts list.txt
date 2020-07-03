@@ -1,0 +1,12 @@
+Electronic Components Used in this build:
+
+3 18650 lithium ion batteries in series
+1 9V battery for Arduino and logic boards
+1 Arduino UNO
+1 MPU6050 IMU
+1 NRF24L01
+1 L298N Motor Driver
+1 10K OHM Linear Taper Rotary Potentiometer
+2 Pololu 20D 156:1 12V CB dual shaft motor
+2 Hall Effect Quadrature Encoders for 20D Metal Gearmotors
+2 SPDT Slide switch 
