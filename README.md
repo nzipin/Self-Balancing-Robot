@@ -1,5 +1,6 @@
 # Self-Balancing-Robot
-All artifacts from a 2 wheel balancing robot project as seen on YouTube   
+All artifacts from a 2 wheel balancing robot project as seen on YouTube  
+https://www.youtube.com/watch?v=M7D-TyRbdDE&list=PLmEi2OoxXIQ88akwk1nRoXV6LqhXQp3kH  
 
 **Full Parts List**  
 *Mechanics:*  
