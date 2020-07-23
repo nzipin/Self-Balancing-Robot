@@ -7,7 +7,7 @@ All artifacts from a 2 wheel balancing robot project as seen on YouTube
 1x Polycarbonate Clear Plastic Sheet 12" X 18" X 0.0625" (1/16") https://www.amazon.com/gp/product/B07MQTDF4R/ref=ppx_yo_dt_b_asin_title_o03_s03?ie=UTF8&psc=1  
 1x M3 T Slot Nut Hammer Head Fastener Nut https://www.amazon.com/gp/product/B07SDFCTD4/ref=ppx_yo_dt_b_asin_title_o03_s05?ie=UTF8&psc=1  
 1x 20 Pcs M3 Stainless Steel 304 Hex Socket Head Cap Screws Nuts https://www.amazon.com/gp/product/B07HQ5761L/ref=ppx_yo_dt_b_asin_title_o03_s02?ie=UTF8&psc=1  
-2x 56:1 Metal Gearmotor 20Dx44L mm 12V CB with Extended Motor Shaft https://www.pololu.com/product/3492  
+2x 156:1 Metal Gearmotor 20Dx44L mm 12V CB with Extended Motor Shaft https://www.pololu.com/product/3492  
 1x Dagu Wild Thumper Wheel 120x60mm Pair with 4mm Shaft Adapters https://www.pololu.com/product/1555  
 1x Generic wire coat hanger  
 
