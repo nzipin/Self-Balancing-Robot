@@ -13,6 +13,7 @@ All artifacts from a 2 wheel balancing robot project as seen on YouTube
 
 *Electronics:*  
 (Robot):  
+- 1x Arduino Uno https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/ref=sr_1_2_sspa?dchild=1&keywords=arduino+uno&qid=1595477278&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5UU9WQkwyRkZEQyZlbmNyeXB0ZWRJZD1BMDYzNTk0OTJONUVJQ0kxTVM1U1YmZW5jcnlwdGVkQWRJZD1BMDc2NTczNjNFSUNFSTE3WTQ1R1gmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl  
 - 1x Silicon Wire https://www.amazon.com/gp/product/B07G2HFCS1/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1  
 - 1x Tegg 2PCS 9V Battery Holder with ON/Off Switch https://www.amazon.com/gp/product/B07SSY6LRB/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1  
 - 1x M3 Male Female Nylon Hex https://www.amazon.com/gp/product/B07D7828LC/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1  
