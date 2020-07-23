@@ -23,7 +23,9 @@ All artifacts from a 2 wheel balancing robot project as seen on YouTube
 - 1x 3 x 3.7V Battery Holder https://www.amazon.com/gp/product/B071ZQ2X2T/ref=ppx_yo_dt_b_asin_title_o03_s05?ie=UTF8&psc=1  
 - 1x MPU6050 3 Axis Accelerometer Gyroscope Module 6 DOF 6-axis Accelerometer Gyroscope Sensor https://www.amazon.com/gp/product/B00LP25V1A/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1  
 - 3x 18650 Li-ion Battery  
+
 (Remote Control):  
+
 - 1x Joystick Breakout Module Game Controller for Arduino PS2 https://www.amazon.com/gp/product/B01N59MK0U/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1  
 - 1x Arduino Nano https://www.amazon.com/gp/product/B07G99NNXL/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1  
 - 1x  3 Pins Mini Toggle Switch https://www.amazon.com/gp/product/B01BWL7Z44/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1  
