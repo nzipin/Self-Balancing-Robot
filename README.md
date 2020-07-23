@@ -1,7 +1,7 @@
 # Self-Balancing-Robot
 All artifacts from a 2 wheel balancing robot project as seen on YouTube   
 
-**Full Parts List**
+**Full Parts List**  
 *Mechanics:*  
 1x verntech 4pcs 300mm T Type Aluminum Profile Extrusion https://www.amazon.com/gp/product/B07KB1HD8T/ref=ppx_yo_dt_b_asin_title_o03_s04?ie=UTF8&psc=1  
 1x Polycarbonate Clear Plastic Sheet 12" X 18" X 0.0625" (1/16") https://www.amazon.com/gp/product/B07MQTDF4R/ref=ppx_yo_dt_b_asin_title_o03_s03?ie=UTF8&psc=1  
