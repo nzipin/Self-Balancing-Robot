@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=M7D-TyRbdDE&list=PLmEi2OoxXIQ88akwk1nRoXV6LqhXQp
 - 1x 20 Pcs M3 Stainless Steel 304 Hex Socket Head Cap Screws Nuts https://www.amazon.com/gp/product/B07HQ5761L/ref=ppx_yo_dt_b_asin_title_o03_s02?ie=UTF8&psc=1  
 - 2x 156:1 Metal Gearmotor 20Dx44L mm 12V CB with Extended Motor Shaft https://www.pololu.com/product/3492  
 - 1x Dagu Wild Thumper Wheel 120x60mm Pair with 4mm Shaft Adapters https://www.pololu.com/product/1555  
-- 1x Generic wire coat hanger  
+- 1x Generic plastic coat hanger  
 
 *Electronics:*  
 (Robot):  
